@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+plotly
+plotly_express==0.4.1
+folium
+geopandas
+streamlit-folium
+llama_index
+pypdf
